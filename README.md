@@ -8,7 +8,7 @@ Desarrollar un sistema de predicción de la severidad de accidentes de tránsito
 ## Enlace del video
 
 ## Enlace diapositivas
-[Haz clic aquí para descargar el PDF](AndreaPortilla24.github.io/Traffic-Accidents/Predicción_Severidad_Accidentes_Tránsito.pdf)
+[Ver o descargar mi PDF](Predicción_Severidad_Accidentes_Tránsito.pdf)
 
 ## **Autores**
 - Daniel Olarte Pico
