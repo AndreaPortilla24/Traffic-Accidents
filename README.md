@@ -7,6 +7,8 @@ Desarrollar un sistema de predicción de la severidad de accidentes de tránsito
 
 ## Enlace del video
 
+## Enlace diapositivas
+
 
 ## **Autores**
 - Daniel Olarte Pico
